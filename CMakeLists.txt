@@ -55,6 +55,7 @@ add_executable(${PROJECT_NAME}
   src/duktape/duk_v1_compat.c
   src/include/debugScreen.c
   src/include/debugScreenFont.c
+  src/lifedukext.c
   src/lifemain.c
 )
 
